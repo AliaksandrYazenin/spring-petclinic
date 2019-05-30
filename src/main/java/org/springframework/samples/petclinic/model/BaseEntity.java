@@ -26,7 +26,7 @@ import java.io.Serializable;
  * needing this property.
  *
  * @author Ken Krebs
- * @author Juergen Hoellerrgerge
+ * @author Juergen Hoellerrgergetherherherh
  */
 @MappedSuperclass
 public class BaseEntity implements Serializable {
